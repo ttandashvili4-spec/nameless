@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background-color: hsl(0, 0%, 91%);
+}
+
+.img1{
+    width: 1358px;
+    position: absolute;
+    z-index: -1;
+}
+
+.first{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    height: 470px;
+    top: 100px; 
+    left: 450px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.19), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.sec{
+    display: flex;
+    margin-left: 30px;
+    gap: 20px;
+}
+
+.h1{
+    color:  hsl(292, 42%, 14%);
+    font-size: 40px;
+}
+
+.hh1{
+    color: hsl(292, 42%, 14%);
+    margin-left: 20px;
+}
+
+.third{
+    display: flex;
+    gap: 20px;
+}
+
+.pp1{
+    color:  hsl(300, 0%, 48%);
+    margin-left: 20px;
+}
+
+.fifth{
+    display: flex;
+    gap: 200px;
+}
+
+.hi{
+    color: hsl(292, 42%, 14%);
+    margin-left: 20px;
+}
+
+.sixth{
+    display: flex;
+    gap: 15px;
+}
+
+.seventh{
+    display: flex;
+    gap: 62px;
+}
+
+.imgminus{
+    margin-left: 6.5px;
+}
