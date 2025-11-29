@@ -4,7 +4,7 @@ body{
 }
 
 .img1{
-    width: 1358px;
+    width: 100%;
     position: absolute;
     z-index: -1;
 }
@@ -69,4 +69,5 @@ body{
 
 .imgminus{
     margin-left: 6.5px;
+
 }
